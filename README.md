@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi, I'm Kyle👋
 
+I am a student software engineer who is completing the Machine Learning specialization from Holberton School. During my time at Holberton I have worked with my peers on a variety of individual and group projects. I am currently in the final trimester of the program and looking forward to what the future will bring!
+
+[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyle-gross&theme=dark)](https://github.com/kyle-gross/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyle-gross&layout=compact&theme=dark)](https://github.com/kyle-gross/github-readme-stats)
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/kyle-gross-swe/ "LinkedIn")! 🔗
 <!--
 **kyle-gross/kyle-gross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
