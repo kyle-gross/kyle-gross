@@ -6,12 +6,20 @@ I am a junior software engineer who is completed the Machine Learning specializa
 - 🌱 I’m currently learning: <b>JavaScript - Node.js & React</b>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kyle-gross&theme=dark" width="420">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyle-gross&layout=compact&theme=dark">
+<img
+src="https://github-readme-stats.vercel.app/api?username=kyle-gross&theme=dark" width=420>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyle-gross&layout=compact&theme=dark"
+width=387>
 </p>
 
 <p align="center">
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=kyle-gross&theme=dark">
+</p>
+<p align="center"> 
+  Visitor count<br>
+  <img
+  src="https://profile-counter.glitch.me/kyle-gross/count.svg"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
