@@ -46,6 +46,10 @@ width=387>
 <a href="https://www.linkedin.com/in/kyle-gross-swe/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
 
+<div align="center">
+<em><b>Check out my <a href="https://kyle-gross.github.io/">Personal Website</a>!</b></em>
+</div>
+
 <!--
 **kyle-gross/kyle-gross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
