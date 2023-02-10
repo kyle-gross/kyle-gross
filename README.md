@@ -2,9 +2,6 @@
 
 I am a junior software engineer who is completed the Machine Learning specialization from Holberton School. During my time at Holberton I worked with my peers on a variety of individual and group projects. I graduated this program in June 2022 and began working as an IT professional shortly afterward. I am somebody who continuously learns new skills and strives for to improve and refine my existing skill set. I look forward to the opportunity to collaborate and work with the GitHub and open source community as I continue my professional coding journey!
 
-- 🔭 I’m currently working on: <b>Pokemon GO Search String Creator & Website</b>
-- 🌱 I’m currently learning: <b>JavaScript - Node.js & React</b>
-
 <p align="center">
 <img
 src="https://github-readme-stats.vercel.app/api?username=kyle-gross&theme=dark" width=420>
